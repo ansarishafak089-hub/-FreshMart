@@ -242,7 +242,7 @@ nav ul li a.active{
 .products-banner{
     height:320px;
     background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
-    url("images/banner.jpg") center/cover no-repeat;
+    url("https://images.squarespace-cdn.com/content/v1/582175db197aea631e3e4812/1567632538547-NH211DGAH2KDUH1O586X/IMG_1188.jpg") center/cover no-repeat;
 
     display:flex;
     flex-direction:column;
